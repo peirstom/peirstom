@@ -1,4 +1,4 @@
-![I am a webdeveloper ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a webdeveloper ](https://github.com/peirstom/peirstom/blob/main/banner.png)
 
 ## Hi there 👋, I'm Tom Peirs
 I'm Tom from Belgium, and I am a web developer. I really enjoy learning languages and frameworks like React, as well as work in WordPress. I also enjoy wireframing, UI, UX, and design in general.
