@@ -1,10 +1,11 @@
-### Hi there 👋, I'm Tom Peirs
-#### I am a webdeveloper 
 ![I am a webdeveloper ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Tom from Belgium, and I am a web developer. I really enjoy learning languages and frameworks like React, as well as work in WordPress. I also enjoy wireframing, UI, UX, and design in general. You can check out my linkedin at https://www.linkedin.com/in/tom-peirs/.
+## Hi there 👋, I'm Tom Peirs
+I'm Tom from Belgium, and I am a web developer. I really enjoy learning languages and frameworks like React, as well as work in WordPress. I also enjoy wireframing, UI, UX, and design in general.
 
-Skills: REACT / JS / HTML / CSS
+### Skills
+* ⚛️ REACT
+* 💻 JS / HTML / CSS
 
 - 🔭 I’m currently working on my website 
 - 🌱 I’m currently learning SCSS 
